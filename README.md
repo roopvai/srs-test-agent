@@ -1,5 +1,7 @@
 # AI Test Case & Quality Risk Generator
 
+**[Live Demo](https://srs-test-agent-ai.streamlit.app/)** · **[Report a bug](https://github.com/roopvai/srs-test-agent/issues)**
+
 An AI agent that takes a software requirements document and automatically generates test cases, edge cases, and quality risk flags, grounded with RAG so output reflects real testing standards instead of generic LLM guesses.
 
 ## The problem
